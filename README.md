@@ -1,4 +1,5 @@
 📺 Disney+ Clone
+
 Welcome to the Disney+ Clone repository! 🎉 This project is a meticulously crafted replica of the popular Disney+ streaming platform. It aims to provide a similar user experience with a modern, responsive design and dynamic content.
 
 🌟 Features
@@ -18,7 +19,7 @@ Clone the repository
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 📫 Contact
-For any inquiries or suggestions, feel free to open an issue or reach out to me at your.email@example.com.
+For any inquiries or suggestions, feel free to open an issue or reach out to me at amanuelabebawfr@gmail.com.
 
 Let's bring the magic of Disney+ to the open-source community! ✨
 
