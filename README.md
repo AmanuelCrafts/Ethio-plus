@@ -23,7 +23,4 @@ For any inquiries or suggestions, feel free to open an issue or reach out to me 
 
 Let's bring the magic of Disney+ to the open-source community! ✨
 
-Credits
-Created by CP
-
 Feel free to customize the URLs, email, and other details as needed!
