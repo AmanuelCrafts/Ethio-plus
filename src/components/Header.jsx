@@ -68,7 +68,7 @@ const Header = () => {
         <>
 
         <NavMenu>
-            <a href="/home">
+            <a href="/Ethio-plus/home">
                 <img src={HomeIcon} alt="" />
                 <span>HOME</span>
             </a>
