@@ -3491,7 +3491,7 @@ ${this.customData.serverResponse}`:this.message=this._baseMessage}}var jn;(funct
     transform: scale(1.05);
     border-color: rgba(249, 249, 249, 0.8);
   }
-`,o3=()=>{const t=Ii(Qj);return M.jsxs(s3,{children:[M.jsx("h4",{children:"Trending"}),M.jsx(a3,{children:t&&t.map((e,n)=>M.jsxs(l3,{children:[e.id,M.jsx(Na,{to:"/home/detail/"+e.id,children:M.jsx("img",{src:e.cardImg,alt:e.title})})]},n))})]})},s3=te.div`
+`,o3=()=>{const t=Ii(Qj);return M.jsxs(s3,{children:[M.jsx("h4",{children:"Trending"}),M.jsx(a3,{children:t&&t.map((e,n)=>M.jsxs(l3,{children:[e.id,M.jsx(Na,{to:"/detail/"+e.id,children:M.jsx("img",{src:e.cardImg,alt:e.title})})]},n))})]})},s3=te.div`
   padding: 0 0 26px;
 `,a3=te.div`
   display: grid;
