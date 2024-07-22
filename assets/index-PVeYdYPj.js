@@ -3530,7 +3530,7 @@ ${this.customData.serverResponse}`:this.message=this._baseMessage}}var jn;(funct
     transform: scale(1.05);
     border-color: rgba(249, 249, 249, 0.8);
   }
-`,u3=()=>{const t=Ii(Gj);return M.jsxs(c3,{children:[M.jsx("h4",{children:"Originals"}),M.jsx(h3,{children:t&&t.map((e,n)=>M.jsxs(d3,{children:[e.id,M.jsx(Na,{to:`/home/detail/${e.id}`,children:M.jsx("img",{src:e.cardImg,alt:e.title})})]},n))})]})},c3=te.div`
+`,u3=()=>{const t=Ii(Gj);return M.jsxs(c3,{children:[M.jsx("h4",{children:"Originals"}),M.jsx(h3,{children:t&&t.map((e,n)=>M.jsxs(d3,{children:[e.id,M.jsx(Na,{to:`/detail/${e.id}`,children:M.jsx("img",{src:e.cardImg,alt:e.title})})]},n))})]})},c3=te.div`
   padding: 0 0 26px;
 `,h3=te.div`
   display: grid;
