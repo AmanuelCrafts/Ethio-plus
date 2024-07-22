@@ -3411,7 +3411,7 @@ ${this.customData.serverResponse}`:this.message=this._baseMessage}}var jn;(funct
       opacity: 1;
     }
   }
-`,Hj={recommend:null,newDisney:null,original:null,trending:null},IA=jI({name:"movie",initialState:Hj,reducers:{setMovies:(t,e)=>{t.recommend=e.payload.recommend,t.newDisney=e.payload.newDisney,t.original=e.payload.original,t.trending=e.payload.trending}}}),{setMovies:Wj}=IA.actions,qj=t=>t.movie.recommend,Kj=t=>t.movie.newDisney,Gj=t=>t.movie.original,Qj=t=>t.movie.trending,Yj=IA.reducer,Xj=()=>{const t=Ii(qj);return M.jsxs(Jj,{children:[M.jsx("h4",{children:"Recommended for You"}),M.jsx(Zj,{children:t&&t.map((e,n)=>M.jsx(e3,{children:M.jsx(Na,{to:`/home/detail/${e.id}`,children:M.jsx("img",{src:e.cardImg,alt:e.title})})},n))})]})},Jj=te.div`
+`,Hj={recommend:null,newDisney:null,original:null,trending:null},IA=jI({name:"movie",initialState:Hj,reducers:{setMovies:(t,e)=>{t.recommend=e.payload.recommend,t.newDisney=e.payload.newDisney,t.original=e.payload.original,t.trending=e.payload.trending}}}),{setMovies:Wj}=IA.actions,qj=t=>t.movie.recommend,Kj=t=>t.movie.newDisney,Gj=t=>t.movie.original,Qj=t=>t.movie.trending,Yj=IA.reducer,Xj=()=>{const t=Ii(qj);return M.jsxs(Jj,{children:[M.jsx("h4",{children:"Recommended for You"}),M.jsx(Zj,{children:t&&t.map((e,n)=>M.jsx(e3,{children:M.jsx(Na,{to:`/detail/${e.id}`,children:M.jsx("img",{src:e.cardImg,alt:e.title})})},n))})]})},Jj=te.div`
   padding: 0 0 26px;
 `,Zj=te.div`
   display: grid;
